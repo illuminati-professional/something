@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.890cc9bc.css",
+    "main.js": "/static/js/main.a19f139c.js",
+    "static/media/item(6).png": "/static/media/item(6).4be38f2e138b662cc948.png",
+    "static/media/item(5).png": "/static/media/item(5).fad8e50f568682455870.png",
+    "static/media/item(1).png": "/static/media/item(1).76f2b8d3dd7d3b6c1cb1.png",
+    "static/media/item(0).png": "/static/media/item(0).f8e41fc3ec16d406a227.png",
+    "static/media/item(4).png": "/static/media/item(4).8c1bb08d62326411c727.png",
+    "static/media/item(2).png": "/static/media/item(2).db0f7375a50239226788.png",
+    "static/media/item(3).png": "/static/media/item(3).0356a982597858f12cd8.png",
+    "static/media/toncoin-ton-logo.png": "/static/media/toncoin-ton-logo.cf913d6bfd2d2cb65fcf.png",
+    "index.html": "/index.html",
+    "main.890cc9bc.css.map": "/static/css/main.890cc9bc.css.map",
+    "main.a19f139c.js.map": "/static/js/main.a19f139c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890cc9bc.css",
+    "static/js/main.a19f139c.js"
+  ]
+}
